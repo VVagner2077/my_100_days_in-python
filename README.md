@@ -2,7 +2,6 @@
 # 🐍 MY 100 DAYS IN PYTHON
 ````
 I created this repository to share my experience learning Python
-[DIO](https://web.dio.me/)
 ````
 ## 📄 repository I'm using
 
