@@ -1,5 +1,6 @@
-print("Welcome to the day 1")
-x = input("Where are you from? ")
-y = input("And your city? ")
+print("Welcome to the day 1\n\n")
 
-print("So you are from",x,",",y)
+x = input("Where are you from?") #fist question
+y = input("And your city?") #second question
+
+print("So you are from",x,",",y) #print the awnser
